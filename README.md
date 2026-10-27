@@ -66,14 +66,28 @@ personal-expense-tracker/
 ├── styles.css                   # Styling and responsive dashboard
 ├── app.js                       # Transaction CRUD, filter, calculations, export
 ├── screenshots/
-│   ├── dashboard.png            # Genuine dashboard capture (optimized preview)
-│   ├── add-transaction.png      # Genuine input form capture (optimized preview)
-│   └── mobile.png               # Genuine narrow-screen capture (optimized preview)
+│   ├── dashboard.webp            # Genuine dashboard capture (optimized preview)
+│   ├── add-transaction.webp      # Genuine input form capture (optimized preview)
+│   └── mobile.webp               # Genuine narrow-screen capture (optimized preview)
 ├── tests/
 │   └── test_app.py              # Playwright UI regression tests
 ├── README.md
 └── .gitignore
 ```
+
+## Project screenshots
+
+**Dashboard**
+
+![PennyPilot dashboard](screenshots/dashboard.webp)
+
+**Add transaction form**
+
+![PennyPilot add transaction form](screenshots/add-transaction.webp)
+
+**Mobile layout**
+
+![PennyPilot mobile preview](screenshots/mobile.webp)
 
 ## Testing
 
