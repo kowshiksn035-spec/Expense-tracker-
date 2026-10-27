@@ -113,10 +113,13 @@ Tests cover first load, adding and editing expenses, search and type filters, de
 
 Attach a screenshot of this repository's root file listing once uploaded to GitHub. Use the authentic screenshots in `screenshots/` for working output evidence. Confirm submission and student details before printing the report.
 
-**Published repository:** `https://github.com/kowshiksn035-spec/Expense-tracker-` (the link becomes valid only after upload).
+**Published repository:** https://github.com/kowshiksn035-spec/Expense-tracker-
 
 **Project title:** Personal Expense Tracker (PennyPilot)  
 **Course:** Full Stack Technologies  
-**Academic year:** 2026-27
+**Academic year:** 2026-27  
+**Student:** Sangaraju Naga Kowshik  
+**USN:** 1NH23CS223  
+**Semester / Section:** 7th Semester / B
 
 **Screenshots:** The three WebP screenshots in this repository are optimized previews of actual browser captures. Full-resolution PNG images are retained in the downloadable project package.
