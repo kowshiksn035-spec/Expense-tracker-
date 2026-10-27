@@ -66,9 +66,9 @@ personal-expense-tracker/
 ├── styles.css                   # Styling and responsive dashboard
 ├── app.js                       # Transaction CRUD, filter, calculations, export
 ├── screenshots/
-│   ├── dashboard.png            # Genuine application dashboard capture
-│   ├── add-transaction.png      # Genuine input form capture
-│   └── mobile.png               # Genuine narrow-screen capture
+│   ├── dashboard.png            # Genuine dashboard capture (optimized preview)
+│   ├── add-transaction.png      # Genuine input form capture (optimized preview)
+│   └── mobile.png               # Genuine narrow-screen capture (optimized preview)
 ├── tests/
 │   └── test_app.py              # Playwright UI regression tests
 ├── README.md
@@ -104,3 +104,5 @@ Attach a screenshot of this repository's root file listing once uploaded to GitH
 **Project title:** Personal Expense Tracker (PennyPilot)  
 **Course:** Full Stack Technologies  
 **Academic year:** 2026-27
+
+**Screenshots:** The three WebP screenshots in this repository are optimized previews of actual browser captures. Full-resolution PNG images are retained in the downloadable project package.
